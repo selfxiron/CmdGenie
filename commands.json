@@ -1,0 +1,8 @@
+{
+    "list all files": "ls -la",
+    "remove all zip files": "rm *.zip",
+    "show disk usage": "df -h",
+    "check memory": "free -h",
+    "update system": "sudo dnf update",
+    "shutdown the system": "sudo shutdown now"
+}
