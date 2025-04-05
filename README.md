@@ -12,3 +12,20 @@
 
 ---
 
+## 📦 Installation
+### Note: Make sure you have Python3 already installed on your system.
+```
+git clone https://github.com/selfxiron/CmdGenie
+cd CmdGenie
+python cmdgenie.py
+```
+
+---
+
+## 🤝 Contributing
+Feel free to fork this project and submit pull requests for improvements!
+
+---
+
+## 📜 License
+This project is open-source and free to use.
